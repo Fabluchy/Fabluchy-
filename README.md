@@ -1,4 +1,7 @@
 # Fabluchy-
+<div align="center">
+  <img src="./file_00000000151081f4b565a18c6d3c01b0.png" width="100%" alt="Fabluchy - Data Analyst and Open Source Contributor">
+</div>
 
 <div align="center"><img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:301050,100:7B2CBF&height=200&section=header&text=Hello,%20I'm%20Fabluchy!&fontSize=38&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Data%20Analyst%20%7C%20Open%20Source%20Contributor&descAlignY=55&descSize=16" width="100%" alt="Profile banner"/><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&pause=1000&color=B57EDC&center=true&vCenter=true&width=650&lines=Data+Analyst+%F0%9F%93%8A;Open+Source+Contributor+%F0%9F%92%BB;Turning+Data+into+Insights+%E2%9C%A8;Always+Learning%2C+Always+Growing+%F0%9F%8C%B1" alt="Animated introduction"/>🖤 Curious Mind. Analytical Heart. Purple Energy. 💜
 
